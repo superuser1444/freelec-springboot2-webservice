@@ -1,8 +1,9 @@
-package com.demo.book;
+package com.demo.book.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+//<
 @SpringBootApplication
 public class FreelecSpringboot2WebserviceApplication {
 
